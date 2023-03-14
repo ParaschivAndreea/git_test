@@ -1,0 +1,2 @@
+My first GItHUb repo!
+Hello Odin!
